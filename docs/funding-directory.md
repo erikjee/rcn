@@ -206,7 +206,7 @@ Related: [Cargo][cargo], [crates.io][crates-io].
 
 Many organizations adopting Rust continue to operate in mixed-language environments. Improving interoperability with existing C and C++ codebases lowers adoption barriers, simplifies migrations, and makes it easier to incrementally introduce Rust into existing systems.
 
-Funding would support work by [teor (@teor2345)](https://github.com/teor2345), [folkertdev (Folkert de Vries)](https://github.com/folkertdev) at Tweede Golf, and other collaborators working to identify and address high-impact interoperability gaps between Rust and C/C++.
+Funding would support work by [teor (@teor2345)](https://github.com/teor2345), [folkertdev (Folkert de Vries)](https://github.com/folkertdev) at Trifecta Tech Foundation, and other collaborators working to identify and address high-impact interoperability gaps between Rust and C/C++.
 
 Dozens of interoperability problem statements and use cases have already been identified with industry participants, and new implementation efforts continue to emerge from that work. Current areas of interest include support for C floating-point types such as `long double`, function overloading, variable arguments, smoother Rust onboarding into existing C++ projects, build and linking improvements, and other high-impact gaps.
 
@@ -216,7 +216,8 @@ Links:
 - [Detailed problem statements](https://github.com/rustfoundation/interop-initiative/tree/main/problem-space)
 - [Interop project goals and proposals](https://docs.google.com/document/d/1pFOUJXcs3bZKsCwrMOVHaCbjSe8XEb5ZtHux_4nTwp0/edit?usp=drivesdk)
 - [Interop work inventory](https://docs.google.com/document/d/1-REi68Us_fPOlW1GlEmEqdbtDJAt4UjhBgnXHs-NEmc/edit?usp=drivesdk)
-- [C floating-point interoperability (`f80`, `f128`, `c_longdouble`)](https://rust-lang.github.io/rust-project-goals/2026/interop-f80-f128.html)
+- [C floating-point interoperability (`f80`, `f128`, `c_longdouble`)](https://rust-lang.github.io/goals/2026/interop-f80-f128.html)
+- [C interop: Complex<T>](https://rust-lang.github.io/goals/2026/interop-complex.html)
 
 | Q3 '26 | Q4 '26 | Q1 '27 | Q2 '27 |
 |--------|--------|--------|--------|
@@ -224,9 +225,9 @@ Links:
 
 <div class="funding-sponsors"><strong>Sponsors:</strong> <span class="sponsor-logos"><a href="https://www.google.com/" title="Google"><img src="images/sponsors/google.png" alt="Google"></a></span></div>
 
-<div class="fiscal-sponsors"><strong>Fiscal sponsors:</strong> <span class="fiscal-sponsor-logos"><a href="https://tweedegolf.nl/" title="Tweede Golf"><img src="images/sponsors/tweede-golf.png" alt="Tweede Golf"></a><a href="https://rustfoundation.org/" title="Rust Foundation"><img src="https://rustfoundation.org/wp-content/uploads/2023/10/Rust-Foundation-Black.png" alt="Rust Foundation"></a></span></div>
+<div class="fiscal-sponsors"><strong>Fiscal sponsors:</strong> <span class="fiscal-sponsor-logos"><a href="https://trifectatech.org/" title="Trifecta Tech Foundation"><img src="images/sponsors/trifecta-tech.png" alt="Trifecta Tech Foundation"></a><a href="https://rustfoundation.org/" title="Rust Foundation"><img src="https://rustfoundation.org/wp-content/uploads/2023/10/Rust-Foundation-Black.png" alt="Rust Foundation"></a></span></div>
 
-**Billing contacts:** teor ([contact](https://rust-lang.zulipchat.com/#narrow/dm/325209-teor), [profile](https://github.com/teor2345)) and Erik Jonkers ([contact](mailto:erik@tweedegolf.com), [profile](https://tweedegolf.nl/en/about/6/erik/)).
+**Billing contacts:** teor ([contact](https://rust-lang.zulipchat.com/#narrow/dm/325209-teor), [profile](https://github.com/teor2345)) and Erik Jonkers ([contact](mailto:erik@trifectatech.org), [profile](https://github.com/erikjee)).
 
 ### Crate Namespaces
 
