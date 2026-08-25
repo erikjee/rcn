@@ -439,7 +439,7 @@ Related: [Hyperium Roadmap][hyperium-roadmap].
 
 Many machine learning, graphics, simulation, and scientific computing workloads use 16-bit floating point formats. Native f16 support would make it easier to pass f16 data between Rust, hardware APIs, and libraries that already use those values.
 
-Sponsor support would help [Folkert de Vries (@folkertdev)][folkertdev], through [Tweede Golf][tweede-golf], continue the implementation, testing, documentation, and review work needed before f16 can be considered for stabilization. Stabilization would still be decided through the Rust Project process.
+Sponsor support would help [Folkert de Vries (@folkertdev)][folkertdev], through [Trifecta Tech][trifecta-tech], continue the implementation, testing, documentation, and review work needed before f16 can be considered for stabilization. Stabilization would still be decided through the Rust Project process.
 
 Related: [F16 Stabilization][f16-stabilization], [rust-lang/rust][rust-lang-rust].
 
@@ -449,9 +449,9 @@ Related: [F16 Stabilization][f16-stabilization], [rust-lang/rust][rust-lang-rust
 
 <div class="funding-sponsors"><strong>Sponsors:</strong> <span class="sponsor-logos"><a href="https://developers.openai.com/community/codex-for-oss" title="OpenAI Codex"><img src="images/sponsors/openai-codex.png" alt="OpenAI Codex"></a><a href="https://vectorware.com/" title="VectorWare"><img src="images/sponsors/vectorware.png" alt="VectorWare"></a></span></div>
 
-<div class="fiscal-sponsors"><strong>Fiscal sponsor:</strong> <span class="fiscal-sponsor-logos"><a href="https://tweedegolf.nl/" title="Tweede Golf"><img src="images/sponsors/tweede-golf.png" alt="Tweede Golf"></a></span></div>
+<div class="fiscal-sponsors"><strong>Fiscal sponsor:</strong> <span class="fiscal-sponsor-logos"><a href="https://trifectatech.org/" title="Trifecta Tech"><img src="images/sponsors/trifecta-tech.png" alt="Trifecta Tech"></a></span></div>
 
-**Billing contact:** Erik Jonkers ([contact](mailto:erik@tweedegolf.com), [profile](https://tweedegolf.nl/en/about/6/erik/)).
+**Billing contact:** Erik Jonkers ([contact](mailto:erik@trifectatech.org), [profile](https://github.com/erikjee)).
 
 **Contributor:** Folkert de Vries ([contact](https://rust-lang.zulipchat.com/#narrow/dm/416089-Folkert-de-Vries), [profile](https://github.com/folkertdev)).
 
@@ -485,4 +485,5 @@ Related: [F16 Stabilization][f16-stabilization], [rust-lang/rust][rust-lang-rust
 [tokio-coop-prototype]: https://github.com/tokio-rs/tokio/tree/time-based-coop-poc
 [tokio-runtime-discussion]: https://github.com/tokio-rs/tokio/issues/8085
 [tweede-golf]: https://tweedegolf.nl/
+[trifecta-tech]: https://trifectatech.org/
 [zulip]: https://rust-lang.zulipchat.com/#narrow/channel/594428-commercial-network
