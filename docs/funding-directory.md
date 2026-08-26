@@ -216,8 +216,6 @@ Links:
 - [Detailed problem statements](https://github.com/rustfoundation/interop-initiative/tree/main/problem-space)
 - [Interop project goals and proposals](https://docs.google.com/document/d/1pFOUJXcs3bZKsCwrMOVHaCbjSe8XEb5ZtHux_4nTwp0/edit?usp=drivesdk)
 - [Interop work inventory](https://docs.google.com/document/d/1-REi68Us_fPOlW1GlEmEqdbtDJAt4UjhBgnXHs-NEmc/edit?usp=drivesdk)
-- [C floating-point interoperability (`f80`, `f128`, `c_longdouble`)](https://rust-lang.github.io/goals/2026/interop-f80-f128.html)
-- [C interop: Complex<T>](https://rust-lang.github.io/goals/2026/interop-complex.html)
 
 | Q3 '26 | Q4 '26 | Q1 '27 | Q2 '27 |
 |--------|--------|--------|--------|
@@ -434,6 +432,19 @@ Related: [Hyperium Roadmap][hyperium-roadmap].
 **Billing contact:** Sean McArthur ([contact](https://rust-lang.zulipchat.com/#narrow/dm/243965-Sean-McArthur), [profile](https://github.com/seanmonstar)).
 
 ## Fully Funded
+
+### C and C++ Interoperability
+
+- [C floating-point interoperability (`f80`, `f128`, `c_longdouble`)](https://rust-lang.github.io/goals/2026/interop-f80-f128.html)
+- [C interop: Complex<T>](https://rust-lang.github.io/goals/2026/interop-complex.html)
+
+<div class="funding-sponsors"><strong>Sponsors:</strong> <span class="sponsor-logos"><a href="https://www.google.com/" title="Google"><img src="images/sponsors/google.png" alt="Google"></a></span></div>
+
+<div class="fiscal-sponsors"><strong>Fiscal sponsors:</strong> <span class="fiscal-sponsor-logos"><a href="https://trifectatech.org/" title="Trifecta Tech Foundation"><img src="images/sponsors/trifecta-tech.png" alt="Trifecta Tech Foundation"></a></span></div>
+
+**Billing contact:** Erik Jonkers ([contact](mailto:erik@trifectatech.org), [profile](https://github.com/erikjee)).
+
+**Contributor:** Folkert de Vries ([contact](https://rust-lang.zulipchat.com/#narrow/dm/416089-Folkert-de-Vries), [profile](https://github.com/folkertdev)).
 
 ### F16 Stabilization
 
